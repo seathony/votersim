@@ -1,0 +1,1 @@
+Suggested file structure
